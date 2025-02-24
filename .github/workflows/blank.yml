@@ -19,3 +19,5 @@ jobs:
         uses: hustcer/deepseek-review@v1
         with:
           chat-token: sk-c46a0804ec524383804c1d724ef7ad17
+          sys-prompt: >
+            你是一个专业的代码审查助手，负责分析 GitHub Pull Request 中的代码变更。识别潜在问题，例如代码风格违规、逻辑错误、安全漏洞，并提供改进建议。以简洁的方式清楚地列出问题和推荐措施。
