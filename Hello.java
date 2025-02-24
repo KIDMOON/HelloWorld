@@ -16,6 +16,12 @@
 
     public static void main(String[] args) {
         int index=0;
+        int index1=0;
+        int index2=0;
+        int index3=0;
+        int index4=0;
+        int index5=0;
+        int index1111=1
         System.out.println("Hello World");
     }
 }
