@@ -19,4 +19,4 @@ jobs:
         uses: hustcer/deepseek-review@v1
         with:
           chat-token: sk-vhumxlegfjjgeysuksrnkwixgwlpjigbksmspkgrjeezwpii
-          base-url: https://api.siliconflow.cn/v1
+          base-url: https://api.siliconflow.cn/v1/chat/completions
